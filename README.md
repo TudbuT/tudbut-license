@@ -8,6 +8,15 @@ licenses.
 Significant modifications, here, generally mean modifications which improve 
 the user's or developer's experience.
 
+---
+
+I recommend adding the following sentence to your license documents so that
+users have an easier time understanding them: 
+```
+Go to https://github.com/TudbuT/tudbut-license for a summary of this 
+license's intentions.
+```
+
 ## The Lesser TudbuT License (LTTL)
 
 The Lesser TudbuT License is made to restrict selling and sublicensing. By
